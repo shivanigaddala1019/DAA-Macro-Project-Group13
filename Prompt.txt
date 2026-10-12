@@ -1,0 +1,31 @@
+Project: Knapsack Problem Using Branch and Bound
+
+Prompt:
+
+Create a clear and educational state-space tree visualization
+for the 0/1 Knapsack problem using the Branch and Bound technique.
+
+Use the following example:
+
+Number of items: 4
+Knapsack capacity: 10
+
+Item 1: Weight = 2, Profit = 40
+Item 2: Weight = 3, Profit = 50
+Item 3: Weight = 5, Profit = 100
+Item 4: Weight = 4, Profit = 60
+
+Requirements:
+
+1. Draw a state-space tree representing item selection decisions.
+2. Show the profit, weight, and upper bound at each relevant node.
+3. Clearly distinguish promising and unpromising branches.
+4. Mark pruned branches in red.
+5. Label the left branch as selecting an item and the right
+   branch as excluding an item.
+6. Highlight the optimal solution.
+7. Include a title and a legend.
+8. Make the visualization suitable for a DAA academic project.
+
+The diagram should explain how Branch and Bound reduces the
+search space while finding the optimal solution.
